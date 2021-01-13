@@ -9,7 +9,7 @@ I am actively seeking full time opportunites in the following roles:
 4. Web Developer
 5. Android Developer
 
-Feel free to send me an email at [mailto](mailto:arshiya.sayyada@nyu.edu) if you would like to connect!
+Feel free to send me an email at [arshiya.sayyada@nyu.edu](mailto:arshiya.sayyada@nyu.edu) if you would like to connect!
 <!--
 **arshiya-sayyada/arshiya-sayyada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
