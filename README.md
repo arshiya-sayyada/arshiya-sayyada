@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer who loves to make new things. I have a Masters degree in Computer Science from NYU but I also have a great love for stories. I look at every project as a story. I look at the beginning (the inputs), the end (the end result I want) and take my code through the journey of getting from the start to the finish. I believe every file, every code snippet fits into this journey like a puzzle piece and my favorite feeling is when all the puzzle pieces slot together. I'm currently working on my portfolio website which will be hosted at [arshiya-sayyada.github.io](arshiya-sayyada.github.io). Take a look around to see what I've made so far!
+I'm a Software Engineer who loves to make new things. I have a Masters degree in Computer Science from NYU but I also have a great love for stories. I look at every project as a story. I look at the beginning (the inputs), the end (the end result I want) and take my code through the journey of getting from the start to the finish. I believe every file, every code snippet fits into this journey like a puzzle piece and my favorite feeling is when all the puzzle pieces slot together. I'm currently working on my portfolio website which will be hosted at [arshiya-sayyada.github.io](https://arshiya-sayyada.github.io/). Take a look around to see what I've made so far!
 
 I am actively seeking full time opportunites in the following roles:
 1. Software Engineer
